@@ -61,7 +61,9 @@ h1 {
 }
 
 .left-page small {
+  position: relative;
   font-style: italic;
+  top:0.4in;
 }
 
 .left-page img {
